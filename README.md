@@ -37,7 +37,7 @@ TBA
 ### First step
 * step description
 * step description
-![1][width=150](https://raw.githubusercontent.com/aprossi/vespa-test-tutorial/master/IMG/1.png)
+![1](https://raw.githubusercontent.com/aprossi/vespa-test-tutorial/master/IMG/1.png)
 
 ### Second step
 * step description
