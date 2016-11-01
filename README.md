@@ -1,8 +1,9 @@
 ## Exploring exoplanets
 
 TOC
-* [Authors](https://github.com/aprossi/vespa-test-tutorial/edit/master/README.md#Authors)
-* [Links](https://github.com/aprossi/vespa-test-tutorial/edit/master/README.md#Links)
+* [Authors](https://github.com/aprossi/vespa-test-tutorial/blob/master/README.md#authors)
+* [Change log](https://github.com/aprossi/vespa-test-tutorial/blob/master/README.md#changelog)
+* [Links](https://github.com/aprossi/vespa-test-tutorial/blob/master/README.md#links)
 
 ## Authors: 
 
