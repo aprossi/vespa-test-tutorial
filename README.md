@@ -19,10 +19,10 @@ TBA
 ## Steps
 
 ### TEST URL WITH JUST FILENAME (does not work?)
-![IMAGE00](1.png)
+![1](https://raw.githubusercontent.com/aprossi/vespa-test-tutorial/master/IMG/1.png)
 
 ### TEST URL WITH FULL PATH CONFLUENCE (MANUAL EFFORT NEEDED..)
-![IMAGEURL](https://voparis-confluence.obspm.fr/download/attachments/4653374/1.png?api=v2)
+![7](https://raw.githubusercontent.com/aprossi/vespa-test-tutorial/master/IMG/7.png)
 
 [http://exoplanet.eu](http://exoplanet.eu)
 
