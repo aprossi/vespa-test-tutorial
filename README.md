@@ -16,9 +16,9 @@ M. Gangloff et al.
 
 ## Change log
 
-| Version       | Notes         | Author  |
-| ------------- |:-------------:| -----:  |
-| 0             | test          | someone |
+| Version       | Author        | Notes  |
+| ------------- |:-------------:| -----: |
+| 0             | name          | test   |
 
 
 ## Requirements and dependencies
