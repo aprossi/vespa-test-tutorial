@@ -1,5 +1,3 @@
-{:toc}
-
 ## Exploring exoplanets
 
 ## Authors: 
