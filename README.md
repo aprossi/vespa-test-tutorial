@@ -1,6 +1,6 @@
 ## Exploring exoplanets
 
-* [Authors](./#authors)
+* [Authors](#authors)
 * [Change log](https://github.com/aprossi/vespa-test-tutorial/blob/master/README.md#change-log)
 * [Requirements](https://github.com/aprossi/vespa-test-tutorial/blob/master/README.md#requirements-and-dependencies)
 * [Use case](https://github.com/aprossi/vespa-test-tutorial/blob/master/README.md#use-case)
