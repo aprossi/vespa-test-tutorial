@@ -1,5 +1,9 @@
 ## Exploring exoplanets
 
+TOC
+* [Authors](#Authors)
+* [Authors](#Links)
+
 ## Authors: 
 
 M. Gangloff et al.
