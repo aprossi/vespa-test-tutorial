@@ -3,6 +3,12 @@
 TOC
 * [Authors](https://github.com/aprossi/vespa-test-tutorial/blob/master/README.md#authors)
 * [Change log](https://github.com/aprossi/vespa-test-tutorial/blob/master/README.md#change-log)
+* [Requirements](https://github.com/aprossi/vespa-test-tutorial/blob/master/README.md#requirements-and-dependencies)
+* [Use case](https://github.com/aprossi/vespa-test-tutorial/blob/master/README.md#use-case)
+* [Summary](https://github.com/aprossi/vespa-test-tutorial/blob/master/README.md#summary)
+* [Introduction](https://github.com/aprossi/vespa-test-tutorial/blob/master/README.md#introduction)
+* [Steps](https://github.com/aprossi/vespa-test-tutorial/blob/master/README.md#steps)
+* [References](https://github.com/aprossi/vespa-test-tutorial/blob/master/README.md#references)
 * [Links](https://github.com/aprossi/vespa-test-tutorial/blob/master/README.md#links)
 
 ## Authors: 
