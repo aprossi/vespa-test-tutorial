@@ -1,6 +1,8 @@
 ## Exploring exoplanets
 
-## Author: M. Gangloff et al.
+## Authors: 
+
+M. Gangloff et al.
 
 ## Change log
 
@@ -11,6 +13,7 @@
 
 ## Requirements and dependencies
  Not applicable
+ 
 ## Use case
 exoplanets TBA
 
@@ -21,16 +24,22 @@ TBA
 
 ## Steps
 
-### TEST URL WITH JUST FILENAME (does not work?)
+### First step
+* step description
+* step description
 ![1](https://raw.githubusercontent.com/aprossi/vespa-test-tutorial/master/IMG/1.png)
 
-### TEST URL WITH FULL PATH CONFLUENCE (MANUAL EFFORT NEEDED..)
+### Second step
+* step description
+* step description
 ![7](https://raw.githubusercontent.com/aprossi/vespa-test-tutorial/master/IMG/7.png)
 
 [http://exoplanet.eu](http://exoplanet.eu)
 
 
 ## References
+
+TBA + URL
 
 
 ## Links
