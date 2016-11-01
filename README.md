@@ -4,8 +4,11 @@
 
 ## Change log
 
-|Version|Notes|
-|0|test|
+| Version       | Notes         | Author  |
+| ------------- |:-------------:| -----:  |
+| 0             | test          | someone |
+
+
 ## Requirements and dependencies
  Not applicable
 ## Use case
