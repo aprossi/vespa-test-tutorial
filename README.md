@@ -2,7 +2,7 @@
 
 TOC
 * [Authors](https://github.com/aprossi/vespa-test-tutorial/blob/master/README.md#authors)
-* [Change log](https://github.com/aprossi/vespa-test-tutorial/blob/master/README.md#changelog)
+* [Change log](https://github.com/aprossi/vespa-test-tutorial/blob/master/README.md#change-log)
 * [Links](https://github.com/aprossi/vespa-test-tutorial/blob/master/README.md#links)
 
 ## Authors: 
